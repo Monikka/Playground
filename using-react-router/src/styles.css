@@ -1,0 +1,23 @@
+.card {
+  border-radius: 1px !important;
+  margin-top: 20px;
+}
+.card-body {
+  padding: 1.6rem !important;
+}
+.card-title {
+  margin-bottom: 1.4rem !important;
+}
+
+.icon {
+  width: 64px;
+  height: 64px;
+  background-image: url("./assets/img_navsprites.gif");
+}
+
+img {
+  object-fit: none;
+  object-position: 0px -76px;
+  width: 76px;
+  height: 76px;
+}
